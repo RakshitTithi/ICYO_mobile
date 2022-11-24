@@ -40,7 +40,10 @@ dependencies:
   intl: ^0.17.0
   font_awesome_flutter: ^10.0.0
   camera: ^0.10.0+4
-
+  path_provider:
+  path:
+  http:
+  flashlight:
 
 dev_dependencies:
   flutter_test:
